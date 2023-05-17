@@ -3,7 +3,7 @@ To run the game, execute the makefile in terminal.
 Game Commands:
 
 m ID x y<br>
-  "move": command Trainer ID to move to location (x, y).
+<t>  "move": command Trainer ID to move to location (x, y).
   
 c ID1 ID2
   "move towards a PokemonCenter”: command Trainer ID1 to start heading to PokemonCenter ID2.
