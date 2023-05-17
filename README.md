@@ -2,7 +2,7 @@ To run the game, execute the makefile in terminal.
 
 Game Commands:
 
-m ID x y
+m ID x y__
   "move": command Trainer ID to move to location (x, y).
   
 c ID1 ID2
